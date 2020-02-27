@@ -1,4 +1,4 @@
-# trykeyboard_bot
+# Keyboard_CBR_bot
 [Для доступу к боту в Telegram](https://t.me/testik1_bot)
 
 ---
