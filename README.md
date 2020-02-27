@@ -1,5 +1,6 @@
 # Keyboard_CBR_bot
-[Для доступу к боту в Telegram](https://t.me/testik1_bot)
+[Для доступу к боту в Telegram](https://t.me/trykeyboard_bot)<br>
+Имя бота - @trykeyboard_bot
 
 ---
 
