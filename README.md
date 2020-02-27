@@ -1,5 +1,5 @@
 # trykeyboard_bot
-@trykeyboard_bot - Для доступу к ботту в Telegram
+[Для доступу к ботту в Telegram] (https://t.me/@trykeyboard_bot)
 
 ---
 
