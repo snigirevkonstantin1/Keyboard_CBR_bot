@@ -1,5 +1,5 @@
 # trykeyboard_bot
-[Для доступу к ботту в Telegram](https://t.me/testik1_bot)
+[Для доступу к боту в Telegram](https://t.me/testik1_bot)
 
 ---
 
